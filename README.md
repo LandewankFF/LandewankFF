@@ -31,9 +31,8 @@ I'm a passionate **DevOps Engineer** and fresh graduate from Telkom University w
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -65,23 +64,6 @@ I'm a passionate **DevOps Engineer** and fresh graduate from Telkom University w
 - 🧪 Performed testing and debugging on developed features
 - 📚 Compiled comprehensive code documentation
 
-## 🎯 Featured Projects
-
-### 🏥 [RS Medika Nusantara](https://github.com/landewank/rs-medika-nusantara)
-Digital healthcare platform with doctor booking system
-- **Tech Stack:** React.js, Node.js, Jenkins, MySQL
-- **Features:** Online appointment booking, healthcare information portal
-
-### 🌴 [Lanafa Temani](https://github.com/landewank/lanafa-temani)
-Digital platform for tourism advertising & creative content services
-- **Tech Stack:** Web Development, Jenkins, Figma
-- **Achievement:** Received government funding through P2MW program
-
-### 📊 Jenkins vs GitHub Actions Performance Analysis
-Research project comparing CI/CD performance for academic purposes
-- **Focus:** CI/CD pipeline optimization for React and Node.js applications
-- **Impact:** Technical documentation for academic and industry reference
-
 ## 🏆 Achievements & Recognition
 
 - 🎖️ **3rd Place** - National UI/UX Designer Competition (Oct 2022)
@@ -94,7 +76,6 @@ Research project comparing CI/CD performance for academic purposes
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=landewankff&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=landewankff&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
